@@ -19,10 +19,10 @@ Easy to fill in website form that yields immediate results.
 #### [Data Stewardship Wizard](https://ds-wizard.org/features.html)
 Wizard that helps with data stewardship. Evaluates answers in FAIR metrics and allows for the generation of a 'data management plan'.
 ## Automatic assessment tools
-#### [FAIR evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/#%2F!)
+#### [FAIR evaluation Services / FAIR Evaluator](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/#%2F!)
 Among contributors are Mark D. Wilkinson and Michel Dumontier. Maturity Indicators can be imported as smartAPI yaml, indicators can then be assembled into collections which are used to evaluate resources.
 #### [Metadata Quality Assurance](https://www.europeandataportal.eu/mqa/?locale=en)
-Methodology is described [here](https://www.europeandataportal.eu/mqa/methodology?locale=en). 
+Hosted by the European Data Portal. Methodology is described [here](https://www.europeandataportal.eu/mqa/methodology?locale=en). 
 #### [FAIRshake](fairshake.cloud)
 Evaluates the FAIRness of digital objects using metrics from FAIRmetrics.org. Extension/bookmark can be used to submit a FAIR assessment. Seems focussed on the biomedical field.
 #### [How FAIR is my data (in development)](https://www.howfairismydata.com/)
