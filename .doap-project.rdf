@@ -1,0 +1,24 @@
+<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns="http://usefulinc.com/ns/doap#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:admin="http://webns.net/mvcb/">
+    <name>Fair Data Assessments</name>
+    <shortname>Fair Data Assessments</shortname>
+    <shortdesc>Overview of FAIR data evaluators</shortdesc>
+    <description>Small static GitHub page to display an overview of all available FAIR data evaluators. Some of which are simple forms whereas others are automated.</description>
+    <homepage rdf:resource="https://github.com/MaastrichtU-IDS/fair-data-assessments"/>
+    <programming-language>Markdown</programming-language>
+    <license rdf:resource="http://usefulinc.com/doap/licenses/mit"/>
+    <maintainer>
+        <foaf:Person>
+            <foaf:name>Tim Hendriks</foaf:name>
+            <foaf:mbox_sha1sum>bbabe418c038c97a3428e2b45f3c0397e96b242a</foaf:mbox_sha1sum>
+        </foaf:Person>
+    </maintainer>
+    <repository>
+        <GitRepository>
+            <browse rdf:resource="https://github.com/MaastrichtU-IDS/fair-data-assessments.git"/>
+        </GitRepository>
+    </repository>
+</Project>
